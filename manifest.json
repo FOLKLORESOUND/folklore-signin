@@ -1,0 +1,14 @@
+{
+  "name": "FOLKLORE Sign-In",
+  "short_name": "Sign-In",
+  "description": "Office sign-in kiosk with back log access",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fdf8f2",
+  "theme_color": "#d9713f",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
